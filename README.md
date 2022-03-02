@@ -1,1 +1,1 @@
-# IX1307-Probleml-sning-matematik
+# IX1307 Problemlösning i matematik kurs i KTH
