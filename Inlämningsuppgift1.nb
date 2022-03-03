@@ -26,8 +26,7 @@ Cell["Rapport projekt 31", "Title",
 cea05a02afb6"],
 
 Cell["\<\
-Murtadha Alobadi, IX1307, mhaao@kth.se
-Parosh Shaways, IX1307, shaways@kth.se\
+Murtadha Alobadi, IX1307, mhaao@kth.se\
 \>", "Text",
  CellChangeTimes->{{3.8096771979717007`*^9, 
   3.809677204842597*^9}},ExpressionUUID->"c24d3fda-b1a2-4692-b847-\
